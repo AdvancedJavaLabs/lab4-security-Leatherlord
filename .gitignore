@@ -1,5 +1,8 @@
 .gradle
 build/
+
+.venv/
+.semgrep-cache/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
